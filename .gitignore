@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+
+# Local env files
+.env
+.env.local
+
+# Editor directories and files
+.vscode/
+.DS_Store
+
+# Logs
+npm-debug.log*
+
+# Optional: lockfiles (uncomment if you don't want to commit lockfiles)
+# package-lock.json
+# yarn.lock
